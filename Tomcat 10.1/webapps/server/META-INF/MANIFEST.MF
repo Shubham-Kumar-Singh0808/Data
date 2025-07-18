@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Maven WAR Plugin 3.4.0
+Build-Jdk-Spec: 17
+Specification-Title: DSpace Server Webapp:: Tomcat deployable WAR
+Specification-Version: 8.1
+Specification-Vendor: LYRASIS
+Implementation-Title: DSpace Server Webapp:: Tomcat deployable WAR
+Implementation-Version: 8.1
+Implementation-Vendor: LYRASIS
+
